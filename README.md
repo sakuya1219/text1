@@ -1,2 +1,4 @@
 # text1
-WAH
+Wah!  
+wah!!  
+github的換行是兩個空白
